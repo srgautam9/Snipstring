@@ -1,0 +1,2 @@
+-It is better to make a virtual environment and then install the particular package as per the requirement.txt
+-For making and activating virtual environment refer https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
